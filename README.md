@@ -1,5 +1,5 @@
 # cover_downloader
-A tkinter application that allows you to get album/single covers.
+A tkinter application that allows you to get album/single covers easily.
 
 ## Important
 You need to install this :
