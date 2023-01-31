@@ -12,3 +12,5 @@ by running :
 `pip install tkinter`
 `pip install requests`
 `pip install pillow`
+
+Once this is done, run the code.
