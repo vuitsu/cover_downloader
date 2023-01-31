@@ -6,7 +6,8 @@ You need to install this :
     - Tkinter
     - Requests
     - Pillow
+    
 by running :
-```pip install tkinter
-pip install requests
-pip install pillow```
+`pip install tkinter`
+`pip install requests`
+`pip install pillow`
