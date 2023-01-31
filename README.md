@@ -3,6 +3,7 @@ A tkinter application that allows you to get album/single covers.
 
 ## Important
 You need to install this :
+
     - Tkinter
     - Requests
     - Pillow
