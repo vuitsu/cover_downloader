@@ -10,7 +10,7 @@ You need to install this :
     
 by running :
 
-- `pip install tkinter`
+- `pip install tk`
 - `pip install requests`
 
 Once this is done, run the code.
